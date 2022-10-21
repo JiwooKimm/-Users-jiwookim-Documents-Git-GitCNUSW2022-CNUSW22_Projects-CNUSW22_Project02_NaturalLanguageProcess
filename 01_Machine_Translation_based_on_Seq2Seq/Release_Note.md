@@ -4,7 +4,7 @@
 
 **Note**
 - torchtext v.0.9.0 이후 torchtext의 data 가 legacy 폴더에 삽입되었다.
-  이에 따라 `torchtext.data\dataset`-> `torchtext.legacy.data\datasets`로 변경하였다. 
+이에 따라 `torchtext.data\dataset`-> `torchtext.legacy.data\datasets`로 변경하였다. 
 	- torchtext release note: https://github.com/pytorch/text/releases
 
 -----
