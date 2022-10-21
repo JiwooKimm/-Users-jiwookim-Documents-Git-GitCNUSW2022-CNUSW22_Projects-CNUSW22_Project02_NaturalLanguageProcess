@@ -1,1 +1,2 @@
-### **CNUSW22_Project02_NaturalLanguageProcessing**
+### **2022 CNU SW Academy 2nd Projects**
+Natural Language Processing
