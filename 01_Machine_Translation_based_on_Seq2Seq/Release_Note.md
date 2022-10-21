@@ -1,5 +1,5 @@
 ### **Sequence 2 Sequence with LSTM**
-#### 22.10.21 \ 20:30
+#### 22.10.21 20:30
 **Upload**
 
 ** Note **
@@ -10,5 +10,5 @@
 -----
 ###Sequence_to_Sequence_with_Attention_Tutorial
 
-#### 22.10.21 \ 20:30
+#### 22.10.21 20:30
 **Upload**
