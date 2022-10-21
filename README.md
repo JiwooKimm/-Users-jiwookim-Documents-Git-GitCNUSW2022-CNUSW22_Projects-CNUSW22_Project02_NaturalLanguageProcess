@@ -1,7 +1,7 @@
 ### **2022 CNU SW Academy 2nd Projects**
 Natural Language Processing
 
-#### **00. Basic NLP (Natural Language Processing)
+#### **00. Basic NLP (Natural Language Processing)**
 
 #### **01. Machine Translation based on Seq2Seq **
 
