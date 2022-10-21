@@ -10,7 +10,7 @@
 
 -----
 
-### **Sequence_to_Sequence_with_Attention_Tutorial**
+### **Sequence 2 Sequence with Attention**
 
 #### 22.10.21 20:30
 **Upload**
