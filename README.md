@@ -7,6 +7,6 @@ Natural Language Processing
 
 #### **02. Machine Translation based on Transformer (Attension Is All You Need)**
 
-![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLC6Spwl7B4r5ms0YNFJbF5N9yv_DRoanPIdNR-65bHHEzEYmnINYxfV_BDlrUS0C7BFg&usqp=CAU)
+![Alt Text](https://static.news.zumst.com/images/126/2022/07/22/960837101a454514b72accf530202150.gif)
 
 #### **03. NIC (Neural Image Captioning) based on ResNet101**
